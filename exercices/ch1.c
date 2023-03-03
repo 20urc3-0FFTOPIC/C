@@ -7,5 +7,5 @@ int main(){
     putchar(c);
     c = getchar();
   }
-  retrun 0;
+  return 0;
 }
